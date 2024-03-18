@@ -1,0 +1,8 @@
+[
+{"name": "Onigiri", "price": "1.99", "imageName": "onigiri"}, {"name": "Meguro Sushi", "price": "5.99", "imageName": "meguro-sushi"},
+{"name": "Tako Sushi", "price": "4.99", "imageName": "tako-sushi"}, {"name": "Avocado Maki", "price": "2.99", "imageName": "avocado-maki"},
+{"name": "Tobiko Spicy Maki", "price": "4.99", "imageName": "tobiko-spicy-maki"}, {"name": "Salmon Sushi", "price": "4.99", "imageName": "salmon-sushi"},
+{"name": "Hamachi Sushi", "price": "6.99", "imageName": "hamachi-sushi"}, {"name": "Kani Sushi", "price": "3.99", "imageName": "kani-sushi"},
+{"name": "Tamago Sushi", "price": "3.99", "imageName": "tamago-sushi"}, {"name": "California Roll", "price": "3.99", "imageName": "california-roll"},
+{"name": "Shrimp Sushi", "price": "3.99", "imageName": "shrimp-sushi"}, {"name": "Ikura Sushi", "price": "5.99", "imageName": "ikura-sushi"}
+]
